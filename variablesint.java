@@ -14,7 +14,12 @@ public class variablesint {
           
          x = x - 10;
          System.out.println(x);
-         
+         /* variables can start from an alphabet or underscore _
+           variables name cannot start with a number
+           speacial characters except_ are not allowed
+           commas or blanks are not allowed 
+           some particular keywords are not allowed
+           (! @ # % ^  & * ( ) { } [ ] \ | ` ~  / , . ' ; : " < > -  + =)*/
         
     }
     
