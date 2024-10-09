@@ -6,7 +6,7 @@ public class percentageof5subject{
         double d=90; // chemistry
         double e=89; // biology
 
-        double percentage=a+b+c+d+e/5;
+        double percentage=(a+b+c+d+e)/5;
 
          System.out.println("the percentage of 5 marks is " + percentage);
     }
