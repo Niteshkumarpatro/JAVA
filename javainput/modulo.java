@@ -13,5 +13,6 @@ public class modulo{
         }
 
     }
-    
-
+    // b%a=b{where b<a}
+    // ex- 7%39=7
+    // a%-b=a%b
